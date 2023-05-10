@@ -11,11 +11,7 @@
 
 **Reference Implementations (Model Answers)**
 
-- [Project 1 - WEB Application](project1-react/README.md)
-- [Project 2 - Database Schema Design](project2-database-design/README.md)
 - [Project 3 - SpringBoot MicroService](project3-springboot/README.md)
-- [Project 4 - Jenkins CI/CD](project4-cicd-pipeline/README.md)
-- [Project 5 - AWS Design and Deploy](project5-aws-design-deploy/README.md)
 
 ---
 
